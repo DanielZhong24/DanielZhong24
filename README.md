@@ -4,4 +4,5 @@
 * Ok with C
 * Fluent in English & Chinese
 
-
+**Reach out to me**
+* [LinkedIn](https://www.linkedin.com/in/jinyang-zhong06/)
