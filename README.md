@@ -5,7 +5,3 @@
 * Fluent in English & Chinese
 
 
-
-**Stats**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielZhong24&size_weight=0.5&count_weight=0.5&layout=compact&hide=scss,html,css&theme=dark)
