@@ -6,3 +6,7 @@
 
 **Reach out to me**
 * [LinkedIn](https://www.linkedin.com/in/jinyang-zhong06/)
+
+**Stats**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielZhong24&theme=github_dark&layout=compact&hide=css,scss,html,shell)](https://github.com/anuraghazra/github-readme-stats)
